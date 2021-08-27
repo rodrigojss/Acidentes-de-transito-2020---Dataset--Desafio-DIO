@@ -1,2 +1,2 @@
-# API-usando-EF
-Exemplo de Api com EF In-Memory
+# Analise de Dataset 
+Realizado analise exploratória em Dataset, usando os Frameworks Matplotlib e Pandas. Foi utilizado o ambiente de notebook google colab.
